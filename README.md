@@ -14,6 +14,13 @@
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
   ```
   ## Install init.vim
+  ```bash
+  # 创建目录（不存在就新建）
+  mkdir -p ~/.config/nvim
+
+  # 下载覆盖init.vim
+  curl https://raw.githubusercontent.com/AlexHol-CN/my-vim-setting/refs/heads/main/init.vim -o ~/.config/nvim/init.vim
+  ```
   ## PlugInstall
   ```bash
   :PlugInstall
