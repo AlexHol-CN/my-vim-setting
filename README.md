@@ -6,7 +6,7 @@
   ```
   ## Install curl
   ```bash
-  sudo apt-get Install curl
+  sudo apt-get install curl
   ```
   ## Install Plugh
   ```bash
